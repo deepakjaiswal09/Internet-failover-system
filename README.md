@@ -5,6 +5,7 @@
 In today’s world, continuous internet connectivity is essential for both personal and professional use. However, relying on a single internet connection can lead to frustrating downtime due to outages, weak signals, or network issues.
 
 This **Internet Failover System** automatically monitors the internet connection status and seamlessly switches between multiple network interfaces (e.g., Wi-Fi, Mobile Hotspot) to maintain uninterrupted connectivity.
+
 <img width="1920" height="1080" alt="Screenshot (708)" src="https://github.com/user-attachments/assets/540e3cac-14ca-4447-adc9-c9c16019434d" />
 
 ---
