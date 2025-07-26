@@ -10,7 +10,7 @@ This **Internet Failover System** automatically monitors the internet connection
 
 ## Why This System?
 
-- **Unreliable Single Connections:** Many existing setups rely on one primary internet source. When it fails, manual switching or downtime occurs.
+- **Unreliable Single Connections:** Many setups rely on one primary internet source. When it fails, manual switching or downtime occurs.
 - **High Latency & Delays:** Older failover methods often have significant delays in detecting outages and switching to backup networks.
 - **Manual Intervention:** Many systems require user action to switch networks, causing productivity loss and user frustration.
 
@@ -35,16 +35,38 @@ This **Internet Failover System** automatically monitors the internet connection
 
 ---
 
-## Getting Started
+## Usage & Contact
+
+This project is **authored and maintained by Deepak Jaiswal**.  
+If you intend to use, modify, or distribute this project, please respect the license terms below. For commercial use or collaboration, feel free to contact me:  
+
+📧 **Email:** deepakjaiswal09@example.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/deepakjaiswal09/  
+
+Recruiters or collaborators are welcome to review the full commit history and milestones in this repository to verify project authenticity and development timeline.
 
 ---
 
 ## Contributions
 
-Contributions and improvements are welcome! Feel free to open issues or submit pull requests.
+Contributions and improvements are welcome! Feel free to open issues or submit pull requests. Please ensure contributions align with the project goals and maintain code quality.
 
 ---
 
 ## License
 
-https://github.com/deepakjaiswal09
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Important Note on Usage
+
+While this repository is public and open for learning and improvement, **please do not claim this work as your own**. If you wish to use this code in commercial or public projects, please reach out to me for approval.
+
+---
+
+*Thank you for your interest!*
+
+---
+
+*(Last updated: July 2025)*  
