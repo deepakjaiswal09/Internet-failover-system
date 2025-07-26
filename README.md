@@ -40,7 +40,7 @@ This **Internet Failover System** automatically monitors the internet connection
 This project is **authored and maintained by Deepak Jaiswal**.  
 If you intend to use, modify, or distribute this project, please respect the license terms below. For commercial use or collaboration, feel free to contact me:  
 
-📧 **Email:** deepakjaiswal09@example.com  
+📧 **Email:** deepakjaiswal9238@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/deepakjaiswal09/  
 
 Recruiters or collaborators are welcome to review the full commit history and milestones in this repository to verify project authenticity and development timeline.
