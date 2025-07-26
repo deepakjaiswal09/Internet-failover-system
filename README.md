@@ -37,8 +37,6 @@ This **Internet Failover System** automatically monitors the internet connection
 
 ## Getting Started
 
-*(Add setup instructions here later, e.g., how to configure networks, dependencies, running the monitor)*
-
 ---
 
 ## Contributions
@@ -49,4 +47,4 @@ Contributions and improvements are welcome! Feel free to open issues or submit p
 
 ## License
 
-*(Specify your license here)*
+https://github.com/deepakjaiswal09
